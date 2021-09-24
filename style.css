@@ -50,7 +50,7 @@ body {
 
 @media screen and (min-width: 450px) {
     .page {
-        max-width: 400px;
+        max-width: 390px;
     }
 
     .about-benefits__item-img {
